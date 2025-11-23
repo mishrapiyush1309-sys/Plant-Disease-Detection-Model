@@ -53,6 +53,8 @@ helping farmers and researchers detect issues early.
 
 
 \## 🧠 Model Architecture
+![Model Architecture](results/model_architecture.png)
+
 
 
 
