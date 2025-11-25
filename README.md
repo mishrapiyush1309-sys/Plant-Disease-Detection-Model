@@ -178,8 +178,7 @@ VIT Bhopal University
 
 
 
-(https://github.com/mishrapiyush1309-sys/Plant-Disease-Detection-Model/blob/2ba334315935ae034bb59cbb863f356aa3845d3a/Plant\_Disease.ipynbs)
-
+(https://github.com/mishrapiyush1309-sys/Plant-Disease-Detection-Model.git)
 
 
 
